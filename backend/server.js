@@ -68,7 +68,7 @@ const upload = multer({
   limits: { fileSize: 10 * 1024 * 1024 } // 10MB
 });
 
-// Serve uploaded files
+// serve uploaded files
 app.use('/uploads', express.static(uploadsDir));
 
 // POST portfolio

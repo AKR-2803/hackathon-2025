@@ -1,10 +1,9 @@
 import dotenv from 'dotenv';
 dotenv.config();
 
-// File: bedrockClaude.js
 import { BedrockRuntimeClient, InvokeModelCommand } from "@aws-sdk/client-bedrock-runtime";
 
-// Setup your Bedrock client
+// setup Bedrock client
 const client = new BedrockRuntimeClient({
     region: "us-east-1",
     credentials: {

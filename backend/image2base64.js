@@ -7,7 +7,7 @@ const imageToBase64 = (filePath) => {
     // xonvert buffer to Base64 string
     const base64String = imageBuffer.toString('base64');
 
-    // return Base64 string
+    // return base64 string
     return base64String;
 };
 

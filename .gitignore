@@ -53,5 +53,3 @@ dist-ssr
 
 backend/.env
 backend/node_modules
-backend/output
-backend/uploads
