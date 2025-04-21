@@ -47,11 +47,11 @@ Summarize and validate the candidate's profile by extracting the following infor
 
 - Review the extracted profile information across all input sources. Identify any inconsistencies (e.g., mismatched job titles, overlapping dates, or conflicting skillsets). Flag these discrepancies clearly and, if possible, suggest the most reliable version based on available context.
 
-- Generate a short, professional summary of the candidate's profile (3–5 sentences) that could be used by a recruiter or hiring manager. This should highlight the candidate’s core strengths, notable achievements, and overall fit for a technical or professional role.
+- Generate a short, professional summary of the candidate's profile (3-5 sentences) that could be used by a recruiter or hiring manager. This should highlight the candidate' core strengths, notable achievements, and overall fit for a technical or professional role.
 
-- Create a list of structured tags or keywords based on the candidate’s experience, skills, and domains (e.g., #Python, #DataScience, #FrontendDeveloper, #AWS). These tags should help in categorizing the profile and enabling filter-based search in a recruitment platform.
+- Create a list of structured tags or keywords based on the candidate's experience, skills, and domains (e.g., #Python, #DataScience, #FrontendDeveloper, #AWS). These tags should help in categorizing the profile and enabling filter-based search in a recruitment platform.
 
-- Create a list of structured tags or keywords based on the candidate’s experience, skills, and domains (e.g., #Python, #DataScience, #FrontendDeveloper, #AWS). These tags should help in categorizing the profile and enabling filter-based search in a recruitment platform.
+- Create a list of structured tags or keywords based on the candidate's experience, skills, and domains (e.g., #Python, #DataScience, #FrontendDeveloper, #AWS). These tags should help in categorizing the profile and enabling filter-based search in a recruitment platform.
 
 - If any GitHub or external link is provided, visit and analyze the content thoroughly. Extract key highlights such as notable projects, technologies used, contributions, or repositories of interest. Present these main points concisely. At the end, include hyperlinks to the original sources for deeper reference.
 
